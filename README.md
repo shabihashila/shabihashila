@@ -2,7 +2,7 @@
 
 # Shabiha Parvin Shila
 
-### Full Stack Developer | .NET • Angular • PHP • WordPress
+### Full Stack Developer | .NET • Angular • PHP 
 
 Full Stack Developer at **Lighthouse Business Consulting Limited**
 
